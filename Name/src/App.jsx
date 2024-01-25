@@ -14,7 +14,7 @@ const App = () => {
     alert("wrong email")
   }
   else{
-    alert("enjoy")
+    alert("email entered is correct")
   }
 }
 
